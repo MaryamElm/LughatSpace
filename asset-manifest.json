@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lughat-space/static/css/main.e6c13ad2.css",
+    "main.js": "/lughat-space/static/js/main.2e802045.js",
+    "static/js/787.e1fa9e81.chunk.js": "/lughat-space/static/js/787.e1fa9e81.chunk.js",
+    "static/media/testi3.PNG": "/lughat-space/static/media/testi3.2b9656043b7ac96390ac.PNG",
+    "static/media/testi2.PNG": "/lughat-space/static/media/testi2.9b47b907e67239a24c3d.PNG",
+    "static/media/testi1.PNG": "/lughat-space/static/media/testi1.b24ad2130d739eba9034.PNG",
+    "static/media/cap2.PNG": "/lughat-space/static/media/cap2.4252238dba19b72e870a.PNG",
+    "static/media/cap3.PNG": "/lughat-space/static/media/cap3.fcbfed9bfece96351685.PNG",
+    "static/media/backg.PNG": "/lughat-space/static/media/backg.9d7456c44a0ba8ff8649.PNG",
+    "static/media/backg2.PNG": "/lughat-space/static/media/backg2.eda89deb3e7604c4acc8.PNG",
+    "static/media/cap.PNG": "/lughat-space/static/media/cap.ebaee9af74aab71cb15c.PNG",
+    "index.html": "/lughat-space/index.html",
+    "static/media/getFetch.cjs": "/lughat-space/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.e6c13ad2.css.map": "/lughat-space/static/css/main.e6c13ad2.css.map",
+    "main.2e802045.js.map": "/lughat-space/static/js/main.2e802045.js.map",
+    "787.e1fa9e81.chunk.js.map": "/lughat-space/static/js/787.e1fa9e81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2e802045.js"
+  ]
+}
