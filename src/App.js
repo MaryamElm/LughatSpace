@@ -6,6 +6,8 @@ import { Reg } from "./pages/registration/Reg";
 import { Login } from "./pages/login/Login";
 import styled from "styled-components";
 import { RegConfirmed } from "./pages/regConfirmed/Sucess";
+import {ContactUs} from "./pages/contactUs/ContactUs";
+import {ContactConfirmed} from "./pages/contactConfirmed/ContactConfirmed";
 import { Suspense } from "react";
 function App() {
   return (
@@ -23,6 +25,9 @@ function App() {
             <Route exact path="/registration" element={<Reg />}></Route>
           </Routes>
           <Routes>
+            <Route exact path="/contactUs" element={<ContactUs />}></Route>
+          </Routes>
+          <Routes>
             <Route exact path="/login" element={<Login />}></Route>
           </Routes>
           <Routes>
@@ -30,6 +35,13 @@ function App() {
               exact
               path="/regConfirmed"
               element={<RegConfirmed />}
+            ></Route>
+          </Routes>
+          <Routes>
+            <Route
+              exact
+              path="/contactConfirmed"
+              element={<ContactConfirmed />}
             ></Route>
           </Routes>
         </Content>

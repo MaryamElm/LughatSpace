@@ -46,6 +46,11 @@ export function Nav() {
             <Text>{t("reg")}</Text>
           </Typography>
         </Link>
+        <Link to="/contactUs">
+          <Typography variant="subtitle1">
+            <Text>{t("ctct")}</Text>
+          </Typography>
+        </Link>
        
       </Links>
       <Usercontent>
