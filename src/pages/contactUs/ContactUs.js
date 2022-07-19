@@ -13,7 +13,7 @@ import { useTranslation } from "react-i18next";
 const contactusForm = {
   minHeight: "50vh",
   backgroundColor: "#808080",
-  width: "175vh",
+  width: "176vh",
   margin: "4% auto",
 };
 
