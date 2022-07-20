@@ -18,7 +18,7 @@ const carteReg = {
 };
 
 export function Reg() {
-  const { t } = useTranslation(["createAccountForm"]);
+  const { t } = useTranslation(["createAcc"]);
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [retypePassword, setRetypePassword] = useState("");

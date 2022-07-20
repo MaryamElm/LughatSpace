@@ -18,7 +18,7 @@ const contactusForm = {
 };
 
 export function ContactUs() {
-  const { t } = useTranslation(["createAccountForm"]);
+  const { t } = useTranslation(["createAcc"]);
   const [email, setEmail] = useState("");
   const [isError, setIsError] = useState(false);
   const [error, setError] = useState({ title: "", msg: "" });

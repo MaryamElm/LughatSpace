@@ -12,7 +12,7 @@ const DEFAULT_TESTIM = MOCK_DATA.filter((d) => d.card_type === "Testimonials");
 
 export function OurServices() {
   const [testi, setTesti] = React.useState(DEFAULT_TESTIM);
-  const { t } = useTranslation(["common"]);
+  const { t } = useTranslation(["navMen"]);
 
   return (
     <>

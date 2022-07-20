@@ -33,7 +33,7 @@ i18n
           service5 :"Japanese - 15$/m for 12 months",
           service5ds :" Understanding how to start learning a language can be tricky and this is especially true for Japanese. Misconceptions about the difficulty of the language and the best way to learn Japanese abound. Can you really learn Japanese in a few minutes a day and how effective are these online lessons in helping beginners understand and speak the language?",
         },
-        common: {
+        navMen: {
           btnReg: "Register Now",
           homeNav:"Home",
           serv: "Our Services",
@@ -54,7 +54,7 @@ i18n
           missingPasswordErrorTitle: "Missing password",
           missingPasswordErrorMsg: "Please enter your password.",
         },
-        createAccountForm: {
+        createAcc: {
           title: "Register",
           title2: "Contact Us",
           nm:"Full Name",
@@ -111,7 +111,7 @@ i18n
           service5ds :" Comprendre comment commencer à apprendre une langue peut être délicat et c’est particulièrement vrai pour le japonais. Les idées fausses sur la difficulté de la langue et la meilleure façon d’apprendre le japonais abondent. Pouvez-vous vraiment apprendre le japonais en quelques minutes par jour et quelle est l’efficacité de ces leçons en ligne pour aider les débutants à comprendre et à parler la langue?",
             
         },
-        common: {
+        navMen: {
           btnReg: "Inscrivez-vous maintenant",
           homeNav:"Accueil",
           serv: "Nos Services",
@@ -132,7 +132,7 @@ i18n
           missingPasswordErrorTitle: "Mot de passe manquant",
           missingPasswordErrorMsg: "Veuillez taper votre mot de passe.",
         },
-        createAccountForm: {
+        createAcc: {
           title: "S'inscrire",
           title2: "Contactez-nous",
           nm:"Nom et Prenom",
@@ -170,7 +170,7 @@ i18n
     debug: true,
     // can have multiple namespaces, in case you want to divide a huge
     // translation into smaller pieces and load them on demand
-    ns: ["common", "home"],
+    ns: ["navMen", "home"],
 
     interpolation: {
       espaceValue: false,

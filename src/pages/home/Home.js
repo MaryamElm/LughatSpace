@@ -14,7 +14,7 @@ import cap3 from "./../../img/cap3.PNG";
 
 
 export function Home() {
-  const { t } = useTranslation(["home", "common"]);
+  const { t } = useTranslation(["home", "navMen"]);
 
   return (
     <>
@@ -38,7 +38,7 @@ export function Home() {
           }}
         >
           <Typography variant="subtitle2">
-            <Text>{t("common:btnReg")}</Text>
+            <Text>{t("navMen:btnReg")}</Text>
           </Typography>
         </Button>
         </Link>
